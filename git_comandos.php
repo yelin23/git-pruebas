@@ -26,7 +26,13 @@
 9. Comando para regresar a commmits anteriores o versiones anteriores.
     git checkout
 
-10.
+10. Comando para matar los commits
+    reset --soft (no toca el codigo)
+    reset --mixed (borra el "staging area" sin tocar el "working area")
+    reset 
+
+11. Comando para guardar los commits en un archivo txt
+    git log > commits.txt
 * Comandos de consola
 
 1. Moverse entre carpetas
