@@ -15,7 +15,7 @@
 
 6. Comando para indicar que archivos estan listos
     git add (para agregar 1)
-    git -A (para agregar todos los archivos)
+    git add -A (para agregar todos los archivos)
 
 7. Comando para guardar cambios en los archivos
     git commit -m "mensaje para identificar el cambio realizado"
