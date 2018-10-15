@@ -29,7 +29,7 @@
 10. Comando para matar los commits
     git reset --soft (no toca el codigo)
     git reset --mixed (borra el "staging area" sin tocar el "working area")
-    git reset hard (Borra todo)
+    git reset --hard (Borra todo)
 
 11. Comando para guardar los commits en un archivo txt
     git log > commits.txt
@@ -46,7 +46,8 @@
 15. Comando para cambiar de rama
     git checkout "nombre de la rama" (sin comillas)
 
-16. 
+16. Comando para clonar proyectos
+    git clone
 * Comandos de consola
 
 1. Moverse entre carpetas
