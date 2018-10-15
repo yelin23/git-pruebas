@@ -18,10 +18,15 @@
     git -A (para agregar todos los archivos)
 
 7. Comando para guardar cambios en los archivos
-    git comit -m "mensaje para identificar el cambio realizado"
+    git commit -m "mensaje para identificar el cambio realizado"
 
-8. Comando para visualizar los comits realizados
+8. Comando para visualizar los commits realizados
     git log
+
+9. Comando para regresar a commmits anteriores o versiones anteriores.
+    git checkout
+
+10.
 * Comandos de consola
 
 1. Moverse entre carpetas
