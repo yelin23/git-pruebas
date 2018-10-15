@@ -24,12 +24,12 @@
     git log
 
 9. Comando para regresar a commmits anteriores o versiones anteriores.
-    git checkout
+    git checkout "nombre del commmit" (sin comillas)
 
 10. Comando para matar los commits
-    reset --soft (no toca el codigo)
-    reset --mixed (borra el "staging area" sin tocar el "working area")
-    reset hard (Borra todo)
+    git reset --soft (no toca el codigo)
+    git reset --mixed (borra el "staging area" sin tocar el "working area")
+    git reset hard (Borra todo)
 
 11. Comando para guardar los commits en un archivo txt
     git log > commits.txt
@@ -40,7 +40,13 @@
 13. Comando para crear ramas
     git branch 'nombre de la rama' (sin comillas)
 
-14. 
+14. Comando para fusionar ramas
+    git merge "nombre de la rama" (sin comillas)
+
+15. Comando para cambiar de rama
+    git checkout "nombre de la rama" (sin comillas)
+
+16. 
 * Comandos de consola
 
 1. Moverse entre carpetas
