@@ -47,7 +47,19 @@
     git checkout "nombre de la rama" (sin comillas)
 
 16. Comando para clonar proyectos
-    git clone
+    git clone (Se necesita una clave que se obtiene por el Github)
+
+17. Comando para vincular un repositorio local conel remoto que esta en Github
+    git remote (se necesita una clave o link que se obtine en Github)
+
+18. Comando para ver el repositorio cargado a Github
+    git remote -b
+
+19.Comando para eliminar o desvincular el repositorio local y remoto
+    git remote remove
+
+20. 
+
 * Comandos de consola
 
 1. Moverse entre carpetas
