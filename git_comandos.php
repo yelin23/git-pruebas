@@ -49,16 +49,23 @@
 16. Comando para clonar proyectos
     git clone (Se necesita una clave que se obtiene por el Github)
 
-17. Comando para vincular un repositorio local conel remoto que esta en Github
-    git remote (se necesita una clave o link que se obtine en Github)
+17. Comando para vincular un repositorio local con el remoto que esta en Github
+    git remote add origin (se necesita una clave o link que se obtine en Github)
 
 18. Comando para ver el repositorio cargado a Github
     git remote -b
 
 19.Comando para eliminar o desvincular el repositorio local y remoto
-    git remote remove
+    git remote remove origin
 
-20. 
+20. Comando para cargar los cambios o commits a Github
+    git push origin "nombre de la rama" (sin comillas)
+
+21. Comando par bajar los cambios realizados por otro usuario que esten en el repositorio remoto
+    git fetch origin
+    git merge origin/master
+
+22. 
 
 * Comandos de consola
 
