@@ -65,7 +65,11 @@
     git fetch origin
     git merge origin/master
 
-22. 
+22. Comando para actualizar el repositorio local
+    git pull origin "nombre de la rama".
+    (Este comando cumple la misma funcion que el fetch y el merge juntos)
+
+23. 
 
 * Comandos de consola
 
