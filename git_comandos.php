@@ -69,8 +69,6 @@
     git pull origin "nombre de la rama".
     (Este comando cumple la misma funcion que el fetch y el merge juntos)
 
-23. 
-
 * Comandos de consola
 
 1. Moverse entre carpetas
