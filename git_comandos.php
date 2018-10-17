@@ -53,7 +53,7 @@
     git remote add origin (se necesita una clave o link que se obtine en Github)
 
 18. Comando para ver el repositorio cargado a Github
-    git remote -b
+    git remote -v
 
 19.Comando para eliminar o desvincular el repositorio local y remoto
     git remote remove origin
